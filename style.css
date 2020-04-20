@@ -1,0 +1,12 @@
+body {
+	background-color: #ffcccc;
+}
+
+p {
+	font-color: red;
+}
+
+#main_page {
+	font-family: courier; 
+	font-size: 38px;
+}
